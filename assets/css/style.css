@@ -1,0 +1,100 @@
+header {
+background-image: url("../images/headerbackground.png");
+height: 150px;
+text-align: center;
+font-family: 'Courier New', Courier;
+color: darkblue;
+width: 100%;
+padding-top: 50px;
+padding-right: 50px;
+padding-bottom: 50px;
+padding-left: 50px;
+}
+
+body {
+background-image: url("../images/background.jpg");
+height: 150px;
+text-align: center;
+font-size: 20px;
+}
+
+.lossbox {
+background-color: darkblue;
+color: white;
+font-size: 25px;
+font-family: Verdana, sans-serif;
+font-weight:bold;
+text-align: center;
+height: 200px;
+padding-top: 50px;
+padding-right: 50px;
+padding-bottom: 50px;
+padding-left: 50px;
+}
+
+.winbox {
+background-color: darkblue;
+color: white;
+font-size: 25px;
+font-family: Verdana, sans-serif;
+font-weight:bold;
+text-align: center;
+height: 200px;
+padding-top: 50px;
+padding-right: 50px;
+padding-bottom: 50px;
+padding-left: 50px;
+}
+
+.scorebox {
+background-color: blue;
+color: white;
+font-size: 35px;
+font-family: Verdana, sans-serif;
+font-weight:bold;
+text-align: center;
+height: 200px;
+padding-top: 50px;
+padding-right: 50px;
+padding-bottom: 50px;
+padding-left: 50px;
+}
+
+.numberbox {
+background-color: blue;
+color: white;
+font-size: 35px;
+font-family: Verdana, sans-serif;
+font-weight:bold;
+text-align: center;
+height: 200px;
+padding-top: 50px;
+padding-right: 50px;
+padding-bottom: 50px;
+padding-left: 50px;
+}
+
+
+.peridot {
+background-image: url("../images/peridot.jpg");
+
+}
+.lapis {
+background-image: url("../images/lapis.jpg");
+
+}
+.opal {
+background-image: url("../images/opal.jpg");
+
+}
+.sapphire { 
+background-image: url("../images/sapphire.jpg");
+}
+
+.crystalpic {
+background-size: cover;
+background-position: center center;
+height:200px;
+margin: 40px;
+}
+  
